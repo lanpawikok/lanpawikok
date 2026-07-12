@@ -29,11 +29,6 @@
 <img src="https://github-profile-trophies.vercel.app/?username=lanpawikok&theme=onedark" alt="GitHub Trophies" />
 
 <br />
-
-<!-- GitHub Streak Stats (Menggunakan domain demolab yang lebih lancar) -->
-<img src="https://streak-stats.demolab.com/?user=lanpawikok&theme=tokyonight" alt="GitHub Streak" />
-
-<br />
 <br />
 
 <!-- ==================== SNAKE GAME ANIMATION ==================== -->
