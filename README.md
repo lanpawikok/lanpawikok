@@ -22,29 +22,32 @@
 <br />
 <br />
 
-<!-- ==================== NO 4: STATS & GRAPH (KONTRIBUSI) ==================== -->
+<!-- ==================== NO 4: STATS & GRAPH ==================== -->
 ## 📊 My GitHub Stats
 
 <!-- GitHub Readme Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAMEMU&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=lanpawikok&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 
 <br />
 
 <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAMEMU&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lanpawikok&theme=tokyonight" alt="GitHub Streak" />
 
 <br />
 
-<!-- Grafik Kontribusi Animasi / WakaTime (Opsional untuk mempercantik grid bawah) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEMU&layout=compact&theme=tokyonight" alt="Top Languages" />
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanpawikok&layout=compact&theme=tokyonight" alt="Top Languages" />
 
+<br />
+<br />
+
+<!-- ==================== SNAKE GAME ANIMATION ==================== -->
 ## 🐍 My Contribution Snake
 
-<!-- Menampilkan animasi snake yang menyesuaikan mode terang/gelap GitHub -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAMEMU/USERNAMEMU/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAMEMU/USERNAMEMU/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Open Source Snake Game" src="https://raw.githubusercontent.com/USERNAMEMU/USERNAMEMU/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lanpawikok/lanpawikok/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lanpawikok/lanpawikok/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Open Source Snake Game" src="https://raw.githubusercontent.com/lanpawikok/lanpawikok/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
