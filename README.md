@@ -38,4 +38,13 @@
 <!-- Grafik Kontribusi Animasi / WakaTime (Opsional untuk mempercantik grid bawah) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEMU&layout=compact&theme=tokyonight" alt="Top Languages" />
 
+## 🐍 My Contribution Snake
+
+<!-- Menampilkan animasi snake yang menyesuaikan mode terang/gelap GitHub -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAMEMU/USERNAMEMU/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAMEMU/USERNAMEMU/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Open Source Snake Game" src="https://raw.githubusercontent.com/USERNAMEMU/USERNAMEMU/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
