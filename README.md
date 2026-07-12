@@ -25,18 +25,13 @@
 <!-- ==================== NO 4: STATS & GRAPH ==================== -->
 ## 📊 My GitHub Stats
 
-<!-- GitHub Readme Stats (Server Alternatif Resmi) -->
-<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=lanpawikok&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+<!-- GitHub Trophies (Sangat stabil & alternatif terbaik saat server stats utama down) -->
+<img src="https://github-profile-trophies.vercel.app/?username=lanpawikok&theme=onedark" alt="GitHub Trophies" />
 
 <br />
 
-<!-- GitHub Streak Stats (Domain Cadangan) -->
+<!-- GitHub Streak Stats (Menggunakan domain demolab yang lebih lancar) -->
 <img src="https://streak-stats.demolab.com/?user=lanpawikok&theme=tokyonight" alt="GitHub Streak" />
-
-<br />
-
-<!-- Top Languages (Server Alternatif Resmi) -->
-<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=lanpawikok&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 <br />
 <br />
