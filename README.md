@@ -2,7 +2,7 @@
 
 <!-- ==================== NO 3: TECH STACK & AI TOOLS ==================== -->
 ## 🔥 Tech Stack & AI Tools
-<p>Teknologi yang saya kuasai:</p>
+<p>MY SKILL:</p>
 
 <!-- Baris Pertama: Bahasa Pemrograman -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
