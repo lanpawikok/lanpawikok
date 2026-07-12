@@ -25,18 +25,18 @@
 <!-- ==================== NO 4: STATS & GRAPH ==================== -->
 ## 📊 My GitHub Stats
 
-<!-- GitHub Readme Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=lanpawikok&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+<!-- GitHub Readme Stats (Server Alternatif Resmi) -->
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=lanpawikok&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 
 <br />
 
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lanpawikok&theme=tokyonight" alt="GitHub Streak" />
+<!-- GitHub Streak Stats (Domain Cadangan) -->
+<img src="https://streak-stats.demolab.com/?user=lanpawikok&theme=tokyonight" alt="GitHub Streak" />
 
 <br />
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanpawikok&layout=compact&theme=tokyonight" alt="Top Languages" />
+<!-- Top Languages (Server Alternatif Resmi) -->
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=lanpawikok&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 <br />
 <br />
